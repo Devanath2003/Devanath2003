@@ -1,5 +1,5 @@
 
-I’m **Devanath**, a Computer Science student passionate about Artificial Intelligence 🤖 and its real-world applications.<br>I love building and experimenting with AI systems, from fine-tuning models to developing generative and agentic AI prototypes.<br>I enjoy learning by doing, exploring new ideas 💡, and growing through hands-on projects and community involvement 🌱.
+## I’m **Devanath**, a Computer Science student passionate about Artificial Intelligence 🤖 and its real-world applications.<br>I love building and experimenting with AI systems, from fine-tuning models to developing generative and agentic AI prototypes.<br>I enjoy learning by doing, exploring new ideas 💡, and growing through hands-on projects and community involvement 🌱.
 
 <br>
 
