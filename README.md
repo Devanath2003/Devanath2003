@@ -12,13 +12,6 @@ I’m **Devanath**, a Computer Science student passionate about Artificial Intel
 ![](https://nirzak-streak-stats.vercel.app/?user=Devanath2003&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devanath2003&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devanath2003&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devanath2003&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Devanath2003&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
